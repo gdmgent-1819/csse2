@@ -1,0 +1,242 @@
+# --------------
+# DO NOT MODIFY!
+# --------------
+- id: 1819-BS
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: FunGDM-BS
+    long : Besturingssystemen
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+
+- id: 1819-NMD2
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: NMD2
+    long : New Media Design II
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+    - SA
+    - EVR
+    - BM
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : CMO
+
+- id: 1819-NMD3
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: NMD3
+    long : New Media Design III
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+    - SA
+    - EVR
+    - BM
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : CMO
+
+- id: 1819-BAP-CMO
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: BAPCMO
+    long : Bachelorproef CMO
+  academic-year: 2018-2019
+  authors: # First is owner
+    - SA
+    - BM
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+
+- id: 1819-CMSDEVELOPMENT
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: CMSDEV
+    long : CMS Development
+  academic-year: 2018-2019
+  authors: # First is owner
+    - FR
+    - EVR
+    - AAD
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+
+- id: 1819-COMPUTERSCIENCE
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: CSSE
+    long : Computer Science & Software Engineering I
+  academic-year: 2018-2019
+  authors: # First is owner
+    - KR
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
+
+- id: 1819-CSSE2
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: CSSE2
+    long : Computer Science & Software Engineering II
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
+
+- id: 1819-MOBILEDEVELOPMENT
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: MOBDEV
+    long : Mobile Development
+  academic-year: 2018-2019
+  authors: # First is owner
+    - PDP
+    - FR
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
+
+- id: 1819-WEBDESIGN
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: WEBDES
+    long : Web Design
+  academic-year: 2018-2019
+  authors: # First is owner
+    - EVR
+    - OPR
+    - PDP
+    - SA
+  programme:
+    institute : AHS
+    department: PBAGDM
+
+- id: 1819-WEBDEVELOPMENT
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: WEBDEV
+    long : Web Development
+  academic-year: 2018-2019
+  authors: # First is owner
+    - DDW
+    - FR
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
+
+- id: 1819-WEBSCRIPTING
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: WEBSCRIPT
+    long : Web Scripting
+  academic-year: 2018-2019
+  authors: # First is owner
+    - PDP
+    - DDW
+    - EVR
+    - FR
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+
+- id: 1819-UI-UX
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: UI/UX
+    long : User Interface & User Experience
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+    - BM
+    - DDW
+    - EVR
+    - PDP
+    - SA
+  programme:
+    institute : AHS
+    department: PBAGDM
+
+- id: 1819-WOT
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: WOT
+    long : Web of Things
+  academic-year: 2018-2019
+  authors: # First is owner
+    - PDP
+    - DDW
+    - FR
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
+
+- id: 1819-XR
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: XR
+    long : Mixed Reality
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
