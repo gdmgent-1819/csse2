@@ -73,11 +73,10 @@ z axis goes away from user
 Right-hand coordinates:
 z axis goes towards user
 
-[Blender]() uses a right-hand coordinate system.
+[Blender](https://www.blender.org/) uses a right-hand coordinate system.
 
 
 ## References
-
 
 - https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces
 - https://www.toptal.com/javascript/3d-graphics-a-webgl-tutorial
@@ -91,3 +90,29 @@ z axis goes towards user
 - https://webgl2fundamentals.org/
 
 ## Greek alphabet
+
+| UC | LC | Name    |
+|----|----|---------|
+| Α  | α  | alpha   |
+| Β  | β  | beta    |
+| Γ  | γ  | gamma   |
+| Δ  | δ  | delta   |
+| Ε  | ε  | epsilon |
+| Ζ  | ζ  | zeta    |
+| Η  | η  | eta     |
+| Θ  | θ  | theta   |
+| Ι  | ι  | iota    |
+| Κ  | κ  | kappa   |
+| Λ  | λ  | lambda  |
+| Μ  | μ  | mu      |
+| Ν  | ν  | nu      |
+| Ξ  | ξ  | xi      |
+| Ο  | ο  | omicron |
+| Π  | π  | pi      |
+| Ρ  | ρ  | rho     |
+| Σ  | σ  | sigma   |
+| Τ  | τ  | tau     |
+| Υ  | υ  | upsilon |
+| Χ  | χ  | chi     |
+| Ψ  | ψ  | psi     |
+| Ω  | ω  | omega   |

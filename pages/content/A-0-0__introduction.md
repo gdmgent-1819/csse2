@@ -1,7 +1,17 @@
 ---
 layout   : course
 permalink: introduction/
-published: false
+published: true
 #
 title: Introductie
 ---
+
+## Hallo NMD
+
+lorem ipsum
+
+```
+function () {
+
+}
+```
